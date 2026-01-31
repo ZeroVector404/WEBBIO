@@ -5,6 +5,7 @@ import { Play, Pause, SkipBack, SkipForward, Volume2, VolumeX, Volume1, Repeat }
 // === Add your songs here ===
 // Use full YouTube URLs (e.g. https://www.youtube.com/watch?v=... or https://youtu.be/...)
 const songs = [
+  { title: "Falling", artist: "Harry Styles", url: "https://youtu.be/olGSAVOkkTI?si=c0EY0wiHGqlzPoK3", banner: "https://i.ytimg.com/vi/olGSAVOkkTI/maxresdefault.jpg" },
   { title: "About You", artist: "The 1975", url: "https://youtu.be/tGv7CUutzqU?si=pvAtfYuLimWzBDSW", banner: "https://i.ytimg.com/vi/tGv7CUutzqU/hq720.jpg" },
   { title: "A Moment", artist: "ZWEED N' ROLL", url: "https://youtu.be/7grezzVb-AU?si=DRafqKaNMi0OJY9D", banner: "https://i.scdn.co/image/ab67616d0000b2731e228e68d82866f9a2a19265" },
   { title: "Multo", artist: "Cup of Joe", url: "https://youtu.be/Rht8rS4cR1s?si=rRO5-4a45hlD8dtN", banner: "https://image.joox.com/JOOXcover/0/789c62820fe30d18/300" },

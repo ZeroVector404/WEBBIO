@@ -6,7 +6,7 @@ const ProjectsSection = () => {
     {
       title: "Lua Security Bypass",
       description: "Lua exploit development and security research. Bypassing nearly all protections including hook, metahook, hookfunc, and rollback systems. Deep understanding of Metatables, OOP patterns, and Roblox Server/Client architecture.",
-      image: "https://media.discordapp.net/attachments/1428384412718075985/1430945685447905311/image.png?ex=697eccc5&is=697d7b45&hm=520c19e33812ddedbc90b7c4dca516de6771d9a8d1bf448bb5e9934d747f77e7&=&format=webp&quality=lossless",
+      image: "/image.webp",
       tags: ["Lua", "Security", "Exploit", "Bypass"],
       liveUrl: "https://discord.gg/EevePuhaDp",
     },

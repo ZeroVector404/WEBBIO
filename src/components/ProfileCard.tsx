@@ -4,7 +4,7 @@ import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 
 // === Banner image/gif for the profile card ===
 // Put image/gif in public/banners/ then set the path here
-const PROFILE_BANNER = ""; // e.g. "/banners/profile-banner.gif"
+const PROFILE_BANNER = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOiVBug9M1V2PzLgPyHida-OaPWmIQ-aHsxw&s"; // e.g. "/banners/profile-banner.gif"
 
 const ProfileCard = () => {
   const [isFollowing, setIsFollowing] = useState(false);

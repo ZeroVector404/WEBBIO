@@ -253,8 +253,8 @@ const ProfileCard = () => {
                 About Me
               </p>
               <p className="text-sm leading-relaxed" style={{ color: "rgba(255,255,255,0.4)" }}>
-                Developer passionate about C++, Lua & JavaScript.
-                Building cool projects and crafting digital experiences.
+                #ทางของฉัน คงไม่ใช่ฝันของเธอ
+                #ราชาโรบอก
               </p>
             </motion.div>
 
